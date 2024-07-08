@@ -20,3 +20,5 @@
   
           
 </div>
+<p>Bem vindo ao meu quarto desafio de Back End no programa ONE Oracle Alura!<br>
+Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. </p>

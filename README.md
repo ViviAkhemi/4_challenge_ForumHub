@@ -21,4 +21,14 @@
           
 </div>
 <p>Bem vindo ao meu quarto desafio de Back End no programa ONE Oracle Alura!<br>
-Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. </p>
+Um fórum é um espaço onde todos os participantes de uma plataforma podem colocar suas perguntas sobre determinados assuntos. <br>
+Esta é uma API REST usando SPRING onde podemos:<br>
+- Fazer o login; <br>
+- Cadastrar um novo tópico; <br>
+- Listar um tópico;<br>
+- Excluir tópico;<br>
+- Atualizar tópico;<br>
+- Listar todos os tópicos.<br>
+Utilizando o processo CRUD (Create, Read, Update, Delete) em tradução livre (Criar, Consultar, Atualizar e Deletar).<br>
+Foi utilizado o IntelliJ com Java, Spring e o Insomnia para ir testando o programa.<br>
+</p>
